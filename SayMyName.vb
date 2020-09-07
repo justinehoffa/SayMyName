@@ -6,7 +6,7 @@ Option Explicit On
 'RCET0265
 'Fall 2020
 'Say My Name
-'https://github.com/justinehoffa/SayMyName
+'https://github.com/justinehoffa/SayMyName.git
 
 Module SayMyName
     Sub Main()
